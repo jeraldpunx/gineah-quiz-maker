@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel as dasd 
+                    Laravel a
                 </div>
 
                 <div class="links">
